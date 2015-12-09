@@ -1,0 +1,11 @@
+lien(Courier New) Comic Sans MS
+
+Titreh1(Lucida Handwriting)defaut CASTELLAR
+
+Titreh2(Lucida Console)defaut Arial blakc
+
+Titreh3(Lucida Fax)defaut Bookman Old Style
+
+Ceci est un paragraphe(Footlight MT Light)defaut Times New Roman
+
+citation(Monotype Corsiva)defaut Edwardian Script ITC
